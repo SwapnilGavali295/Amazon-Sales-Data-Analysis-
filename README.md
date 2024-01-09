@@ -23,5 +23,7 @@ Sales management has gained importance to meet increasing competition and the
 
 
 ## Power BI Dashboard
-
+![Screenshot 2024-01-10 001927](https://github.com/SwapnilGavali295/Amazon-Sales-Data-Analysis-/assets/137003175/3a39cb82-ac9b-403b-8d73-9721645148ce)
+![Screenshot 2024-01-10 002029](https://github.com/SwapnilGavali295/Amazon-Sales-Data-Analysis-/assets/137003175/0fd82858-602f-4519-b283-da6eacd4b248)
+![Screenshot 2024-01-10 002821](https://github.com/SwapnilGavali295/Amazon-Sales-Data-Analysis-/assets/137003175/51bd05c3-0e2c-43fb-9870-bce7b6c1235e)
 Link To my Dashboard video -[youtube](w)
